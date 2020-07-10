@@ -1,0 +1,27 @@
+{
+  "name": "rajat",
+  "version": "1.0.0",
+  "description": "A online car booking site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajat-9536/Online-car-booking-Website.git"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "Rajat Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajat-9536/Online-car-booking-Website/issues"
+  },
+  "homepage": "https://github.com/Rajat-9536/Online-car-booking-Website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
